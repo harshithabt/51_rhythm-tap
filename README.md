@@ -4,7 +4,7 @@ A 4-lane rhythm game built with Python and Pygame. Press the correct lane key as
 
 Developed for **Software Engineering Lab 4 — Vibe Coding**.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Features
 
@@ -14,7 +14,6 @@ Developed for **Software Engineering Lab 4 — Vibe Coding**.
 - **BPM-synchronized spawning:** Schedules notes according to the configured tempo, such as 120 BPM.
 - **Game-over summary:** Displays the score, PERFECT/GREAT/OK/MISS counts, accuracy percentage, and maximum combo.
 
----
 
 ## Tech Stack
 
@@ -50,8 +49,6 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
----
-
 ## Controls
 
 | Key | Action |
@@ -74,8 +71,7 @@ The game evaluates note hits using three grades:
 
 Missed notes are recorded as MISS. At game over, the summary displays the final score, grade counts, accuracy percentage, and maximum combo.
 
----
-
+--------------------------------------------------------------------------------------------------------------------------------------
 ## Project Structure
 
 ```text
