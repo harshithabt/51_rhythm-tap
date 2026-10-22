@@ -119,7 +119,7 @@ The assignment submission, including the updated code, before/after gameplay vid
 
 ## Author
 
-Harshitha B.T.
+Harshitha B.T - PES1UG24AM118 ('AIML-B' Section)
 
 ## License
 
